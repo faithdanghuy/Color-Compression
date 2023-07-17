@@ -1,1 +1,1 @@
-# Color-Compression
+# Project 1 - Color Compression
